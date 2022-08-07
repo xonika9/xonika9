@@ -1,10 +1,11 @@
-## Hi there, me name is Alex 👋
+# Hi there, me name is Alex 👋
 
-### About me
+## About me
+
 My colleagues call me a "table person". I like consistency in everything and always use accurate data to make decisions.
 
 I have experience in website development in both pure JavaScript and React. \
-Since 2015 I have been doing layout and website development on Wordpress. Website of a medical organization, charity project, commercial organization.
+Since 2015 I have been doing layout and website development on Wordpress. Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
 
 Burning desire to work as a Frontend Developer for a product company that helps people solve their problems and challenges every day.
 
@@ -15,16 +16,15 @@ I actively follow trends in my sphere and know well current trends in Frontend-d
 I love street photography. I take photos with Canon 35mm f/1.8. \
 No bad habits, have a sense of humor.
 
+## How to reach me
 
-### How to reach me:
 * xonika9@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
 * [Telegram](https://t.me/xonika9)
 * [Leetcode](https://leetcode.com/xonika9/)
 * [CodeWars](https://www.codewars.com/users/xonika9)
 
-
-### My skill set
+## My skill set
 
 * HTML, CSS
 * JavaScript, React

@@ -16,14 +16,6 @@ I actively follow trends in my sphere and know well current trends in Frontend-d
 I love street photography. I take photos with Canon 35mm f/1.8. \
 No bad habits, have a sense of humor.
 
-## How to reach me
-
-* xonika9@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
-* [Telegram](https://t.me/xonika9)
-* [Leetcode](https://leetcode.com/xonika9/)
-* [CodeWars](https://www.codewars.com/users/xonika9)
-
 ## My skill set
 
 * HTML, CSS
@@ -37,6 +29,24 @@ No bad habits, have a sense of humor.
 * UI/UX
 * Wordpress
 
+## How to reach me
+
+* xonika9@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
+* [Telegram](https://t.me/xonika9)
+* [Leetcode](https://leetcode.com/xonika9/)
+* [CodeWars](https://www.codewars.com/users/xonika9)
+
+## My stats
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=xonika9&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=xonika9&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xonika9&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonika9&layout=compact" />
+</a>
+</div>
 <!--
 **xonika9/xonika9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

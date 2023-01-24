@@ -38,10 +38,10 @@ No bad habits, have a sense of humor.
 ## My stats
 
 <div>
-<a href="https://github-readme-stats.zohan.tech/api?username=xonika9&hide=stars,contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.zohan.tech/api?username=xonika9&hide=stars,contribs&show_icons=true" />
+<a href="https://github-readme-stats-x9.vercel.app/api?username=xonika9&hide=stars,contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats-x9.vercel.app/api?username=xonika9&hide=stars,contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.zohan.tech/api/top-langs/?username=xonika9&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xonika9&layout=compact" />
+<a href="https://github-readme-stats-x9.vercel.app/api/top-langs/?username=xonika9&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats-x9.vercel.app/api/top-langs/?username=xonika9&layout=compact" />
 </a>
 </div>

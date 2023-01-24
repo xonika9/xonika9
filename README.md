@@ -34,16 +34,14 @@ No bad habits, have a sense of humor.
 * xonika9@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
 * [Telegram](https://t.me/xonika9)
-* [Leetcode](https://leetcode.com/xonika9/)
-* [CodeWars](https://www.codewars.com/users/xonika9)
 
 ## My stats
 
 <div>
-<a href="https://github-readme-stats-ruby-one.vercel.app/api?username=xonika9&hide=stars,contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=xonika9&hide=stars,contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=xonika9&show_icons=true&theme=transparent">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=xonika9&show_icons=true&bg_color=00000000" />
 </a>
-<a href="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=xonika9&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=xonika9&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xonika9&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonika9&layout=compact" />
 </a>
 </div>

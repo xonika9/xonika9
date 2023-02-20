@@ -31,7 +31,7 @@ No bad habits, have a sense of humor.
 
 ## How to reach me
 
-* xonika9@gmail.com
+* me@xonika.ru
 * [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
 * [Telegram](https://t.me/xonika9)
 

@@ -19,15 +19,20 @@ No bad habits, have a sense of humor.
 ## My skill set
 
 * HTML, CSS
-* JavaScript, React
-* Webpack, Babel
-* Figma, Canva, Photoshop
+* JavaScript
+* React
+* NodeJS
+* Express
+* MongoDB
 * REST API
-* Git, GitHub
+* Git
+* Webpack
 * npm, yarn
 * BEM
-* UI/UX
 * Wordpress
+* Figma
+* Canva
+* Photoshop
 
 ## How to reach me
 

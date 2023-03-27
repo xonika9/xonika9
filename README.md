@@ -2,19 +2,19 @@
 
 ## About me
 
-My colleagues call me a "table person". I like consistency in everything and always use accurate data to make decisions.
+Since 2015 I have been actively developing websites on WordPress Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
 
-I have experience in website development in both pure JavaScript and React. \
-Since 2015 I have been doing layout and website development on Wordpress. Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
+In 2022 I started studying JavaScript. I have experience in developing websites on [pure JS](https://xonika9.github.io/mesto/) as well as on the [MERN stack](https://github.com/xonika9/movies-explorer-frontend). I know how to configure, run and deploy code to the server.
 
-Burning desire to work as a Frontend Developer for a product company that helps people solve their problems and challenges every day.
+Above all, I have a great desire to work as a Frontend developer for a product company that helps people solve their problems and challenges every day.
 
-Excellent team player, with a good command of Code review. I have a good UI/UX skills, I draw up requirements specifications for website development. \
-I have a high level of foreign language, as well as a set of theoretical knowledge in management and finance.
+My coworkers jokingly call me "the table man" because I prefer consistency in everything and am always guided by accurate data.
 
-I actively follow trends in my sphere and know well current trends in Frontend-development. I write articles about copyrights in the digital age. \
-I love street photography. I take photos with Canon 35mm f/1.8. \
-No bad habits, have a sense of humor.
+I am an excellent team player and have experience in conducting code reviews, have UI/UX insights and can create effective briefs for websites.
+
+In addition, I have a high level of foreign language skills, as well as a deep knowledge of management and finance. I follow the latest trends in frontend development and take pride in writing about copyright in the digital age.
+
+Outside of work, I have a passion for street photography and can often be caught shooting with my trusty Canon 35mm lens. In winter I like to go skiing or ice skating. And in the summer, we go to the countryside with friends or rent bikes.
 
 ## My skill set
 

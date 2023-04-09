@@ -2,9 +2,11 @@
 
 ## About me
 
-Since 2015 I have been actively developing websites on WordPress Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
+For more than 6 years I have been actively developing websites on WordPress. Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
 
-In 2022 I started studying JavaScript. I have experience in developing websites on [pure JS](https://xonika9.github.io/mesto/) as well as on the [MERN stack](https://github.com/xonika9/movies-explorer-frontend). I know how to configure, run and deploy code to the server.
+I am proficient in [pure JS](https://xonika9.github.io/mesto/) and [MERN stack](https://github.com/xonika9/movies-explorer-frontend). I know how to configure, run and deploy code to the server.
+
+I solve problems on Leetcode and Codewars. I know what is SSR, SSG and SPA and their pros/cons. Worked with NoSQL database MongoDB, understand the differences from SQL. Interested in backend development.
 
 Above all, I have a great desire to work as a Frontend developer for a product company that helps people solve their problems and challenges every day.
 
@@ -19,14 +21,16 @@ Outside of work, I have a passion for street photography and can often be caught
 ## My skill set
 
 * HTML, CSS
+* SCSS, Sass, LESS
+* TailwindCSS, Bootstrap
 * JavaScript
 * React
 * NodeJS
 * Express
-* MongoDB
+* MongoDB, MySQL
 * REST API
 * Git
-* Webpack
+* Webpack, Vite
 * npm, yarn
 * BEM
 * Wordpress
@@ -36,7 +40,7 @@ Outside of work, I have a passion for street photography and can often be caught
 
 ## How to reach me
 
-* me@xonika.ru
+* xonika9@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/alex-beltyukov/)
 * [Telegram](https://t.me/xonika9)
 

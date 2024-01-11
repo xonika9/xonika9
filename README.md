@@ -2,7 +2,7 @@
 
 ## About me
 
-I have been actively involved in web application development for more than 7 years.
+I have been actively involved in web application development for more than 7 years. I am currently working as a lead frontend developer at [RSHB-Intech](https://rshb-intech.ru/rshb-intech).
 
 I solve Leetcode and Codewars tasks. I know what SSR, SSG and SPA are and their pros/cons. Worked with NoSQL database MongoDB, understand the differences from SQL. I am interested in backend development.
 

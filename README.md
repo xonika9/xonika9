@@ -2,41 +2,49 @@
 
 ## About me
 
-For more than 6 years I have been actively developing websites on WordPress. Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
+I have been actively involved in web application development for more than 7 years.
 
-I am proficient in [pure JS](https://xonika9.github.io/mesto/) and [MERN stack](https://github.com/xonika9/movies-explorer-frontend). I know how to configure, run and deploy code to the server.
+I solve Leetcode and Codewars tasks. I know what SSR, SSG and SPA are and their pros/cons. Worked with NoSQL database MongoDB, understand the differences from SQL. I am interested in backend development.
 
-I solve problems on Leetcode and Codewars. I know what is SSR, SSG and SPA and their pros/cons. Worked with NoSQL database MongoDB, understand the differences from SQL. Interested in backend development.
+First of all, I have a great desire to work as a Frontend developer in a product company that helps people solve their problems and tasks on a daily basis.
 
-Above all, I have a great desire to work as a Frontend developer for a product company that helps people solve their problems and challenges every day.
+My colleagues jokingly call me "the table man" because I favor systematicity in everything and am always guided by accurate data.
 
-My coworkers jokingly call me "the table man" because I prefer consistency in everything and am always guided by accurate data.
+I am a great team player and have experience in code reviews, have UI/UX savvy and can create effective functional requirements for web applications.
 
-I am an excellent team player and have experience in conducting code reviews, have UI/UX insights and can create effective briefs for websites.
+In addition, I have a high level of foreign language proficiency as well as in-depth knowledge of management and finance. I follow the latest trends in frontend development and take pride in writing articles on copyright in the digital age.
 
-In addition, I have a high level of foreign language skills, as well as a deep knowledge of management and finance. I follow the latest trends in frontend development and take pride in writing about copyright in the digital age.
+Outside of work, I have a passion for street photography and can often be caught shooting with my trusty Canon 35mm lens. In the winter I like to go skiing or ice skating. And in summer, my friends and I go to the countryside or rent bikes.
+
+Skills: HTML, CSS, JavaScript, TypeScript, React, React Hooks, Next.js, Redux Toolkit, Jest, NodeJS, Express, MongoDB, MySQL, REST API, Git, GitHub, GitLab, Webpack, Vite, ESLint, Babel, npm, yarn, BEM, SCSS, Sass, LESS, CSS-in-JS, TailwindCSS, MUI, Bootstrap, Wordpress, Figma, Canva и Photoshop.
+Also exploring new frameworks and libraries.
 
 Outside of work, I have a passion for street photography and can often be caught shooting with my trusty Canon 35mm lens. In winter I like to go skiing or ice skating. And in the summer, we go to the countryside with friends or rent bikes.
 
 ## My skill set
 
 * HTML, CSS
-* SCSS, Sass, LESS
-* TailwindCSS, Bootstrap
+* SCSS, Sass, LESS, CSS-in-JS
+* MUI, TailwindCSS, Bootstrap
 * JavaScript
-* React
+* TypeScript
+* React, React Hooks
+* Redux Toolkit
+* Jest
 * NodeJS
 * Express
 * MongoDB, MySQL
 * REST API
 * Git
 * Webpack, Vite
+* ESLint, Babel
 * npm, yarn
 * BEM
 * Wordpress
-* Figma
-* Canva
-* Photoshop
+* Figma, Canva, Photoshop
+
+## Projects I'm proud of:
+Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
 
 ## How to reach me
 

@@ -19,8 +19,6 @@ Outside of work, I have a passion for street photography and can often be caught
 Skills: HTML, CSS, JavaScript, TypeScript, React, React Hooks, Next.js, Redux Toolkit, Jest, NodeJS, Express, MongoDB, MySQL, REST API, Git, GitHub, GitLab, Webpack, Vite, ESLint, Babel, npm, yarn, BEM, SCSS, Sass, LESS, CSS-in-JS, TailwindCSS, MUI, Bootstrap, Wordpress, Figma, Canva и Photoshop.
 Also exploring new frameworks and libraries.
 
-Outside of work, I have a passion for street photography and can often be caught shooting with my trusty Canon 35mm lens. In winter I like to go skiing or ice skating. And in the summer, we go to the countryside with friends or rent bikes.
-
 ## My skill set
 
 * HTML, CSS

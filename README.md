@@ -2,47 +2,11 @@
 
 ## About me
 
-I have been actively involved in web application development for more than 7 years. I am currently working as a lead frontend developer at [RSHB-Intech](https://rshb-intech.ru/rshb-intech).
+I have been successfully working in the field of development and IT product management for over 5 years. I am proficient in application architecture and work with modern technology stacks. I am skilled at effectively collaborating with development and design teams to implement complex interfaces. I possess strong skills in performance optimization, improving UX/UI, and code refactoring. I constantly learn new technologies and practices to apply them in my work. I solve problems on Leetcode to enhance my algorithmic thinking. I am fluent in English.
 
-I solve Leetcode and Codewars tasks. I know what SSR, SSG and SPA are and their pros/cons. Worked with NoSQL database MongoDB, understand the differences from SQL. I am interested in backend development.
+Outside of work, I enjoy street photography, skiing, summer nature trips, and cycling with friends.
 
-First of all, I have a great desire to work as a Frontend developer in a product company that helps people solve their problems and tasks on a daily basis.
-
-My colleagues jokingly call me "the table man" because I favor systematicity in everything and am always guided by accurate data.
-
-I am a great team player and have experience in code reviews, have UI/UX savvy and can create effective functional requirements for web applications.
-
-In addition, I have a high level of foreign language proficiency as well as in-depth knowledge of management and finance. I follow the latest trends in frontend development and take pride in writing articles on copyright in the digital age.
-
-Outside of work, I have a passion for street photography and can often be caught shooting with my trusty Canon 35mm lens. In the winter I like to go skiing or ice skating. And in summer, my friends and I go to the countryside or rent bikes.
-
-Skills: HTML, CSS, JavaScript, TypeScript, React, React Hooks, Next.js, Redux Toolkit, Jest, NodeJS, Express, MongoDB, MySQL, REST API, Git, GitHub, GitLab, Webpack, Vite, ESLint, Babel, npm, yarn, BEM, SCSS, Sass, LESS, CSS-in-JS, TailwindCSS, MUI, Bootstrap, Wordpress, Figma, Canva и Photoshop.
-Also exploring new frameworks and libraries.
-
-## My skill set
-
-* HTML, CSS
-* SCSS, Sass, LESS, CSS-in-JS
-* MUI, TailwindCSS, Bootstrap
-* JavaScript
-* TypeScript
-* React, React Hooks
-* Redux Toolkit
-* Jest
-* NodeJS
-* Express
-* MongoDB, MySQL
-* REST API
-* Git
-* Webpack, Vite
-* ESLint, Babel
-* npm, yarn
-* BEM
-* Wordpress
-* Figma, Canva, Photoshop
-
-## Projects I'm proud of:
-Website of a [medical organization](https://irgpc.ru/), [charity project](https://xn--80abh4ara1ao.xn--p1ai/), [commercial organization](https://timber.krona-baikal.com/).
+Skills: HTML, CSS, JavaScript, TypeScript, React, React Hooks, Next.js, Redux Toolkit, react-query, Jest, Node.js, Express, MongoDB, MySQL, REST API, GraphQL API, Git, GitHub, GitLab, Webpack, Vite, ESLint, Babel, npm, yarn, BEM, SASS/SCSS, LESS, CSS-in-JS, TailwindCSS, MUI, Bootstrap, WordPress, Figma, Canva, Photoshop, semantic and cross-browser markup, application architecture, design patterns, FSD, SOLID, Jira, Confluence, Kanban, Scrum, code review, full development cycle participation, performance optimization, UI/UX.
 
 ## How to reach me
 

@@ -6,7 +6,7 @@
 
 Hi! I am 29 years old, living in Moscow and working as a Frontend Developer at RSHB-Intech. My task is to create user-friendly and functional web interfaces that are intuitive and valuable for every user.
 
-I am constantly learning new things, and am particularly passionate about AI and self-hosting. I actively read and experiment with LLMs for routine automation. I have my own "digital garden"—a couple of servers on Hetzner where various useful services run. I run a [Telegram channel](https://t.me/+-EFTWfVwM1M5YTMy) about technology.
+I am constantly learning new things, and am particularly passionate about AI and self-hosting. I actively read and experiment with LLMs for routine automation. I have my own "digital garden"—a couple of servers on Hetzner where various useful services run. I run a [Telegram channel](https://t.me/+sVGIQdVw0WljYzIy) about technology.
 
 In my free time, I am a street photographer, shooting with a Canon D60 35mm f/1.8, trying to capture that 'magic moment' in spontaneous scenes and faces. I love to travel, discovering new cities and landscapes; it's the best way to refresh my mind and fill myself with new experiences.
 

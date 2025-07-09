@@ -41,7 +41,7 @@ IT division of Rosselkhozbank.
 - **Eliminated** issues of incorrect requirement interpretation by implementing a collaborative stakeholder research process. Personally created initial technical documentation, which **reduced** rework by ~30%.
 - **Analyzed** user metrics and identified the root cause of high churn during the registration phase. Initiated form simplification, which **led** to a 15% increase in registration conversion.
 
-**Product Manager** | **Forkway (EdTech & HRTech)**  
+**Product Manager** | **Forkway**  
 _January 2023 – January 2024_  
 EdTech & HRTech platform for training and development of IT specialists.
 
@@ -49,14 +49,14 @@ EdTech & HRTech platform for training and development of IT specialists.
 - **Conducted** a full cycle of product research for a B2C platform: organized and analyzed 20+ CustDev interviews and surveyed 100+ respondents, which **allowed** for the formation of a data-driven backlog.
 - **Developed** a financial model from scratch for the B2C product, including unit economics calculation and pricing policy formation based on survey data.
 
-**Frontend Developer** | **Adict (Digital Agency)**  
+**Frontend Developer** | **Adict**  
 _January 2020 – June 2023_  
 Digital agency creating custom solutions for large businesses.
 
 - **Acted** as a technical partner for project managers: translated business requirements into technical tasks and **proposed** optimal engineering solutions to accelerate development.
 - **Initiated** and implemented unit testing (Jest), **achieving** 70% code coverage in key modules and significantly reducing the number of bugs reaching the release stage.
 
-**Business Development Manager / Project Manager** | **OOO "KRONA"**  
+**Business Development Manager / Project Manager** | **KRONA LLC**  
 _January 2014 – January 2020_
 
 - **Initiated** and launched a new production line from scratch (fuel briquettes), **transforming** sawmill waste into a fully profitable product.

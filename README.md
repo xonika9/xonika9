@@ -1,4 +1,4 @@
-# **Aleksei Beltiukov | Senior Product Manager (ex-Teamlead) | Moscow**
+# **Aleksei Beltiukov | Teamlead Frontend | Moscow**
 
 **Telegram:** [@xonika9](https://t.me/xonika9) | **LinkedIn:** [Aleksei Beltiukov](https://linkedin.com/in/aleksei-beltiukov) | **GitHub:** [xonika9](https://github.com/xonika9)
 

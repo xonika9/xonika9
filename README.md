@@ -1,4 +1,4 @@
-# **Aleksei Beltiukov | Teamlead Frontend | Moscow**
+# **Aleksei Beltiukov | Frontend Engineer | Moscow**
 
 **Telegram:** [@xonika9](https://t.me/xonika9) | **LinkedIn:** [Aleksei Beltiukov](https://linkedin.com/in/aleksei-beltiukov) | **GitHub:** [xonika9](https://github.com/xonika9)
 
@@ -45,13 +45,12 @@ In my free time, I'm a street photographer, shooting with a Canon D60 35mm f/1.8
 
 ### **Work Experience**
 
-**Teamlead Frontend** | RSHB-Intech   
+**Frontend Engineer** | RSHB-Intech   
 _August 2023 — Present_   
-IT subsidiary of Rosselkhozbank (Russian Agricultural Bank). As Teamlead, I am responsible for the full product lifecycle of internal services: from discovery to implementation and metric analysis.
+IT subsidiary of Rosselkhozbank (Russian Agricultural Bank). I am responsible for the full product lifecycle of internal services: from discovery to implementation and metric analysis.
 
 - **Increased registration conversion by 15%** by diagnosing a bottleneck in the onboarding funnel through metric analysis and initiating a redesign of the key form.
 - **Reduced rework volume by ~30%** by initiating and implementing a discovery process for working with business requirements, which transformed client interaction into a partnership model.
-- **Scaled the team from 3 to 6 people** in response to growing business objectives. Built an onboarding and development system that allowed 100% of new hires to achieve a grade promotion within a year.
 - **Led the technical modernization** of a critical service (migration to TypeScript, SSR), which improved loading speed and enhanced key SEO metrics.
 
 **Product Manager** | Forkway  

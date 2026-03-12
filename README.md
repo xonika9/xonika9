@@ -1,25 +1,25 @@
 <h1>
-    <strong>Aleksei Beltiukov | Product Leader (AI &amp; Fintech) | Moscow</strong>
+    <strong>Aleksei Beltiukov | Product Leader (AI &amp; Developer Tools)</strong>
 </h1>
 <p>
-    <strong>Telegram:</strong> <a target="_blank" rel="noopener noreferrer" href="https://t.me/xonika9">@xonika9</a> | <strong>LinkedIn:</strong> <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/aleksei-beltiukov ">Aleksei Beltiukov</a> | <strong>GitHub:</strong> <a target="_blank" rel="noopener noreferrer" href="https://github.com/xonika9">xonika9</a>
+    <strong>Telegram:</strong> <a target="_blank" rel="noopener noreferrer" href="https://t.me/xonika9">@xonika9</a> | <strong>LinkedIn:</strong> <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/aleksei-beltiukov">Aleksei Beltiukov</a> | <strong>GitHub:</strong> <a target="_blank" rel="noopener noreferrer" href="https://github.com/xonika9">xonika9</a>
 </p>
 <hr>
 <p>
-    The best digital products are born at the intersection of three worlds: a deep understanding of business goals, engineering empathy, and genuine curiosity about user problems. My entire career is a conscious journey through these three directions.
+    The best digital products are born at the intersection of three worlds: deep understanding of business goals, engineering empathy, and genuine curiosity about user problems. My entire career has been a deliberate journey across these three dimensions.
 </p>
 <p>
-    As a product leader, I don't just manage a backlog – I create an environment where technological solutions directly impact business metrics. My task is to transform strategy into working code and ensure that every developer understands the exact value they are creating for the client and the company right now.
+    As a product leader, I don't just manage a backlog — I create an environment where technology decisions directly impact business metrics. Today I build AI-powered tools for developers, and my path through frontend engineering and fintech gives me a rare combination: I understand both the people who write code and the people for whom that code creates value.
 </p>
 <p>
-    My passion for technology is not limited to work. I am convinced that to truly understand the capabilities of AI, one must "touch" it with their own hands. That's why I maintain my "digital garden" on Hetzner, where I experiment with LLMs and self-hosted services for routine automation. This practical experience helps me distinguish real technological trends from hype and find non-trivial solutions for products. I share my findings in the Telegram channel <a target="_blank" rel="noopener noreferrer" href="https://t.me/+-EFTWfVwM1M5YTMy">«Controlled Hallucinations»</a>.
+    My passion for technology extends beyond work. I believe the only way to truly understand AI capabilities is to get hands-on. That's why I maintain my own "digital garden" on Hetzner, where I experiment with LLMs and self-hosted services for workflow automation. This hands-on experience helps me separate real technology trends from hype and find non-obvious solutions for products. I share my findings on my Telegram channel <a target="_blank" rel="noopener noreferrer" href="https://t.me/+-EFTWfVwM1M5YTMy">"Controlled Hallucinations"</a>.
 </p>
 <p>
-    In my free time, I am a street photographer, shooting with a Canon D60 35mm f/1.8, trying to capture that "magic moment" in random scenes and faces. I love to travel, discovering new cities and landscapes; it's the best way to clear my cache and fill myself with new impressions.
+    In my free time, I'm a street photographer shooting on a Canon 60D with a 35mm f/1.8 lens, trying to capture that elusive "magic of the moment" in random scenes and faces. I love traveling and discovering new cities and landscapes — it's the best way to clear the cache and recharge with fresh impressions.
 </p>
 <hr>
 <h3>
-    Key Skills and Technologies
+    Core Skills &amp; Technologies
 </h3>
 <h4>
     <strong>Product Management &amp; Strategy</strong>
@@ -32,7 +32,7 @@
         <strong>Research &amp; Analytics:</strong> CustDev &amp; User Research, A/B Testing, CJM, Data-Driven Decision Making.
     </li>
     <li>
-        <strong>Operational Management:</strong> Backlog Management, Prioritization (RICE, ICE), Writing PRDs and User Stories.
+        <strong>Operations:</strong> Backlog Management, Prioritization (RICE, ICE), PRD &amp; User Story Writing.
     </li>
 </ul>
 <h4>
@@ -47,11 +47,14 @@
     </li>
 </ul>
 <h4>
-    <strong>Working with AI Products</strong>
+    <strong>AI Products</strong>
 </h4>
 <ul>
     <li>
-        <strong>AI System Design:</strong> AI Agents, LangChain, Low-code automation (Dify, n8n).
+        <strong>AI System Design:</strong> AI Agents, LangChain, Low-code Automation (Dify, n8n).
+    </li>
+    <li>
+        <strong>AI for Developers:</strong> AI Code Generation, Agentic Development, Developer Experience (DX), Natural Language to Code.
     </li>
     <li>
         <strong>RAG &amp; Search:</strong> Retrieval-Augmented Generation (RAG), Embeddings (OpenAI, Gemini, open-source), Vector Databases (Qdrant, Chroma).
@@ -60,99 +63,118 @@
         <strong>Multimodal Models:</strong> Text-to-Image, Text-to-Speech (TTS), Text-to-Video.
     </li>
     <li>
-        <strong>Working with Open-Source LLMs:</strong> Hugging Face, Model Optimization (quantization, distillation), Local Deployment.
+        <strong>Open-Source LLMs:</strong> Hugging Face, Model Optimization (quantization, distillation), Local Deployment.
     </li>
 </ul>
 <h4>
-    <strong>Technology Stack &amp; Architecture</strong>
+    <strong>Tech Stack &amp; Architecture</strong>
 </h4>
 <ul>
     <li>
-        <strong>Architecture &amp; Design:</strong> System Design, Frontend Application Architecture, API Interaction (REST, GraphQL).
+        <strong>Architecture &amp; Design:</strong> System Design, Frontend Application Architecture, API Integration (REST, GraphQL).
     </li>
     <li>
-        <strong>Modern Frontend Stack:</strong> Deep understanding of the React ecosystem (Hooks, Next.js, Redux) and TypeScript.
+        <strong>Modern Frontend Stack:</strong> Deep expertise in the React ecosystem (Hooks, Next.js, Redux) and TypeScript.
     </li>
     <li>
         <strong>Quality &amp; Performance:</strong> Performance Optimization (Core Web Vitals), CI/CD, Testing Methodologies (Jest, RTL).
     </li>
     <li>
-        <strong>Analytical Tools:</strong> SQL, Google Analytics, Yandex.Metrica, Amplitude/Mixpanel.
+        <strong>Analytics Tools:</strong> SQL, Google Analytics, Amplitude/Mixpanel, PostHog, Hotjar.
     </li>
 </ul>
 <hr>
 <h3>
-    <strong>Work Experience</strong>
+    <strong>Experience</strong>
 </h3>
 <p>
-    <strong>Product Manager</strong> | RSHB-Intech&nbsp;<br>
-    <i>August 2023 — Present</i>&nbsp;<br>
-    IT division of Rosselkhozbank. I manage the full lifecycle of two key products: a B2C marketplace for the sale of pledged property and an internal platform for working with the borrower registry. I am responsible for discovery, product strategy, backlog, and achieving business metrics.
+    <strong>Senior Product Manager</strong> | Replit&nbsp;<br>
+    <i>October 2025 — Present</i>&nbsp;<br>
+    Agentic software creation platform powered by natural language (Series C, $1.16B valuation). Owning UX strategy for AI development tools within the Core Product team.
 </p>
 <ul>
     <li>
-        <strong>Increased conversion to registration on the B2C marketplace from 1% to 15%</strong> by initiating product research and eliminating a key barrier in the CJM — an excessively complex onboarding form.
+        <strong>User Experience Vision:</strong> Defining and executing the product vision for AI-driven software creation — from onboarding to advanced development workflows.
     </li>
-    <li class="text-start">
-        <strong>Led the product and technical modernization of a key B2C service</strong>, justifying its value to the business through increased SEO traffic. Achieved a PageSpeed Insights score of 92 points and resolved issues with site indexing.
+    <li>
+        <strong>User Research &amp; Insights:</strong> Conducting deep research to identify developer pain points and translating insights into product decisions.
     </li>
-    <li class="text-start">
-        <strong>Eliminated the lack of development resources as a key product development blocker</strong> by initiating and implementing a plan to double the team (from 3 to 6 people). This accelerated time-to-market and allocated resources for technical debt repayment.
+    <li>
+        <strong>AI Interaction Design:</strong> Designing AI features that feel intuitive to users of all skill levels — from beginners to experienced developers.
     </li>
-    <li class="text-start">
-        <strong>Reduced the volume of unplanned enhancements by 30%</strong> by implementing a discovery process with mandatory technical validation at early stages.
+    <li>
+        <strong>Product Strategy:</strong> Shaping strategy based on user feedback, market data, and competitive analysis, partnering closely with design and engineering teams.
+    </li>
+</ul>
+<p>
+    <strong>Product Manager</strong> | RSHB-Intech (Rosselkhozbank IT)&nbsp;<br>
+    <i>August 2023 — September 2025</i>&nbsp;<br>
+    IT division of Rosselkhozbank (Russian Agricultural Bank). Owned the full product lifecycle of two key products: a B2C marketplace for distressed asset sales and an internal platform for borrower registry management. Responsible for discovery, product strategy, backlog, and business metrics.
+</p>
+<ul>
+    <li>
+        <strong>Increased sign-up conversion on the B2C marketplace from 1% to 15%</strong> by initiating user research and eliminating the key CJM barrier — an overly complex onboarding form.
+    </li>
+    <li>
+        <strong>Led the product and technical modernization of a key B2C service</strong>, justifying the investment through SEO traffic growth. Achieved a PageSpeed Insights score of 92 and resolved site indexing issues.
+    </li>
+    <li>
+        <strong>Resolved the engineering resource shortage as the key blocker to product growth</strong> by initiating and executing a plan to double the team (from 3 to 6 engineers), accelerating time-to-market and freeing capacity for tech debt reduction.
+    </li>
+    <li>
+        <strong>Reduced unplanned work by 30%</strong> by introducing a discovery process with mandatory early-stage technical validation.
     </li>
 </ul>
 <p>
     <strong>Product Manager</strong> | Forkway<br>
     <i>January 2023 — January 2024</i>&nbsp;<br>
-    EdTech &amp; HRTech platform for training and development of IT specialists.
+    EdTech &amp; HRTech platform for IT professional training and development.
 </p>
 <ul>
-    <li class="text-start">
-        <strong>Launched a new B2B product (AI assistants) from 0 to 1</strong> — from market insight to the first paying client, which led to a strategic pivot of the company towards a more profitable direction.
+    <li>
+        <strong>Launched a new B2B product (AI assistants) from 0 to 1</strong> — from market insight to first paying customer, driving a strategic company pivot toward a higher-margin business line.
     </li>
-    <li class="text-start">
-        <strong>Developed and justified the product's pricing strategy</strong> by creating a financial model from scratch. Calculated unit economics and projected P&amp;L, which allowed for the conclusion of the first data-driven B2B contract.
+    <li>
+        <strong>Developed and validated the product pricing strategy</strong> by building a financial model from scratch. Calculated unit economics and forecasted P&amp;L, enabling the first data-driven B2B contract.
     </li>
-    <li class="text-start">
-        <strong>Transformed the founder's vision into a data-driven backlog</strong> by conducting a full cycle of research (20+ CustDev, 100+ questionnaires) and establishing a data-driven decision-making culture within the company.
+    <li>
+        <strong>Transformed the founder's vision into a data-driven backlog</strong> by running a full research cycle (20+ CustDev interviews, 100+ surveys), establishing a culture of data-informed decision making.
     </li>
-    <li class="text-start">
-        <strong>Increased engagement (completion of the first module) by 15%</strong> by implementing systematic A/B testing, proving that gamification is a key driver of retention.
+    <li>
+        <strong>Increased engagement (first module completion) by 15%</strong> through systematic A/B testing, proving that gamification was the primary retention driver.
     </li>
 </ul>
 <p>
     <strong>Frontend Developer</strong> | Adict<br>
     <i>January 2020 — June 2023</i>&nbsp;<br>
-    Digital agency creating custom solutions for large businesses.
+    Digital agency building custom solutions for enterprise clients.
 </p>
 <ul>
-    <li class="text-start">
-        <strong>Acted as the owner of an internal product — a reusable UI library</strong>, which increased project profitability by reducing time-to-market by ~25%.
+    <li>
+        <strong>Owned an internal product — a reusable UI component library</strong>, improving project profitability by reducing time-to-market by ~25%.
     </li>
-    <li class="text-start">
-        <strong>Reduced the number of regression bugs</strong> by initiating and implementing a unit testing culture within the team and proving its business value through a pilot project.
+    <li>
+        <strong>Reduced regression bugs</strong> by championing and implementing a unit testing culture, proving its business value through a pilot project.
     </li>
-    <li class="text-start">
-        <strong>Transformed my role from a developer to a technical partner for the business</strong>, translating client requests from "what to do" into "what problem to solve."
+    <li>
+        <strong>Evolved from a developer into a technical partner for the business</strong>, reframing client requests from "what to build" to "what problem to solve".
     </li>
 </ul>
 <p>
-    <strong>Business Development Manager / Project Manager</strong> | LLC "KRONA"&nbsp;<br>
+    <strong>Business Development Manager / Project Manager</strong> | KRONA LLC&nbsp;<br>
     <i>January 2014 — January 2020</i>
 </p>
 <ul>
-    <li class="text-start">
-        <strong>Created a new business direction from scratch</strong>, turning production waste from a cost center into a source of income. Developed a business plan, calculated unit economics, and managed project implementation.
+    <li>
+        <strong>Built a new business line from scratch</strong>, turning manufacturing waste from a cost center into a revenue stream. Developed the business plan, calculated unit economics, and led the project execution.
     </li>
-    <li class="text-start">
-        <strong>Reduced logistics costs by 15% in the first year</strong> by initiating a digitalization project and implementing data collection (GPS) to transform opaque processes into a manageable, data-driven system.
+    <li>
+        <strong>Cut logistics costs by 15% in the first year</strong> by initiating a digitization project and implementing GPS data collection to transform opaque processes into a manageable, data-driven system.
     </li>
-    <li class="text-start">
-        <strong>Increased production planning accuracy by ~20%</strong> by replacing an intuitive approach with forecasting based on historical data.
+    <li>
+        <strong>Improved production planning accuracy by ~20%</strong> by replacing gut-feel decisions with forecasting based on historical data.
     </li>
-    <li class="text-start">
-        <strong>Participated in the development of a Go-to-Market strategy for the international market (China)</strong>, preparing analytical groundwork for negotiations at the CEO level.
+    <li>
+        <strong>Contributed to the Go-to-Market strategy for the Chinese market</strong>, preparing the analytical foundation for CEO-level negotiations.
     </li>
 </ul>
